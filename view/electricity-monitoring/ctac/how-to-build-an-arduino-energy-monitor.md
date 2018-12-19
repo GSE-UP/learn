@@ -11,7 +11,7 @@ This guide details how to build a simple electricity energy monitor on that can 
 The energy monitor can calculate real power, apparent power, power factor, rms voltage, rms current. All the calculations are done in the digital domain on an Arduino.
 
 #### Step One – Gather Components
-
+//teste
 **You will need:**
 
 1x Arduino
